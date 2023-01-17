@@ -1,0 +1,13 @@
+.txt-area{
+    width: 50%;
+    height: 20vh;
+    margin: 1rem;
+    padding: 1rem;
+    display: block;
+}
+
+#btn-translate{
+    width: 10%;
+    padding: 0.5rem;
+    margin: 1rem;
+}
