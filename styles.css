@@ -1,13 +1,33 @@
+body{
+    max-width: 600px;
+    margin: auto;
+    background-image: url(./images/pawel-czerwinski-3k9PGKWt7ik-unsplash.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
 .txt-area{
-    width: 50%;
+    width: 80%;
     height: 20vh;
     margin: 1rem;
     padding: 1rem;
     display: block;
+    border-radius: 1rem;
 }
 
+#txt-user{
+    margin-top: 80px;
+}
 #btn-translate{
-    width: 10%;
+    width: 30%;
     padding: 0.5rem;
     margin: 1rem;
+    cursor: pointer;
+    border-radius: 0.5rem;
+}
+h1{
+    margin: 1rem;
+    
 }
